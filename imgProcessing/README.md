@@ -5,7 +5,7 @@ The point of this project is to see whether or not we can determine if a person 
 
     Status: Training images brought in, and ran some EDA.
     Model with Best Results: 
-        Accuracy: 
-        Precision: 
-        Recall:
-        f1-score:
+        Accuracy: 0.84
+        Precision: 0.84
+        Recall: 0.97
+        f1-score: -
